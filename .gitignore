@@ -1,0 +1,11 @@
+# Ignore local PDF documentation (keep off GitHub as requested)
+*.pdf
+Laptop_SQL_Project_DeepDive_Guide.pdf
+
+# Python build scripts & cache
+build_pdf.py
+__pycache__/
+*.py[cod]
+*$py.class
+.DS_Store
+Thumbs.db
