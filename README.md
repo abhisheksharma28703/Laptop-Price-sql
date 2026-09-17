@@ -49,9 +49,4 @@ A simple end-to-end SQL project to clean a messy laptop dataset, perform explora
 
 ---
 
-## Resume Point
 
-> **Laptop Data Cleaning & EDA (SQL / MySQL)**
-> - Cleaned and preprocessed 1,300+ messy laptop records using SQL, handling nulls, self-join deduplication, and data type conversions.
-> - Extracted hardware specs (CPU speed, resolution, storage) using string functions and built cross-tabulation queries for brand and price analysis.
-> - Engineered domain features like PPI (Pixels Per Inch) and screen categories directly in SQL.
